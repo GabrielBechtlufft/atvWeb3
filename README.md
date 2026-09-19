@@ -3,7 +3,7 @@
 > Uma aplicação web introdutória feita com **Node.js** e **Express** para apresentar o curso de Desenvolvimento de Software Multiplataforma (DSM) e disponibilizar telas de acesso e cadastro.
 
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-f59e0b)
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-16a34a)
 
 ## Sobre o projeto
 
